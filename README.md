@@ -14,5 +14,5 @@
 
 ## 📊 Github Stats
 <!-- ![John's github stats trans overview](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/overview.svg) -->
-![John's github stats trans lang](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/languages.svg) [![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+![John's github stats trans lang](https://github.com/fw22912/github-stats-transparent/blob/output/generated/languages.svg) [![John's github stats](https://github-readme-stats.vercel.app/api?username=fw22912&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
