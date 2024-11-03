@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 📚 I'm a final year Computer Science (BSc) at University of Bristol, United Kingdom.
-- 🔭 I’m interested in Natural Language Processing and Neural Network.
+- 🔭 I’m interested in Natural Language Processing and Machine Learning.
 - 🌱 I’m currently learning Machine Learning, Image Processing and Computer Vision, Types and Lambda Calculus, and Computer Graphics.
 - 👯 I’m looking to collaborate on projects or any research opportunities related to ML. 
 - 📫 How to reach me:
