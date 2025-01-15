@@ -6,7 +6,6 @@
   - fw22912@bristol.ac.uk (academic contact)
   - hyoyeonlee817@gmail.com (personal contact)
   - [Linkedin](https://www.linkedin.com/in/hyoyeon-lee/)
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: 
   - I am learning German 🇩🇪.
 
